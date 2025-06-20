@@ -5,7 +5,7 @@
 ---
 
 ### 🔭 Currently Soaring Through
-- **Autonomous Humanoid Development** at IIT Bombay Tech Team  
+- **Autonomous Humanoid Development** at IIT Bombay Tech Team-THP
 - **Helicopter Analysis and Designing Software** for CSIR-NAL
 - **JetAuto Robot** applications
 
