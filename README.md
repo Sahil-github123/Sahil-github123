@@ -5,9 +5,10 @@
 ---
 
 ### 🔭 Currently Soaring Through
-- **Autonomous Humanoid Development** at IIT Bombay Tech Team-THP
+- **Quadcopter Controls and Simulations** at IITB ExoFly Team
 - **Helicopter Analysis and Designing Software** for CSIR-NAL
 - **JetAuto Robot** applications
+- **Autonomous Humanoid Robot Development** at IITB THP Team
 
 ---
 
@@ -48,6 +49,15 @@
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
 
+---
+## 🌐 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sahil-patil-ugotthelink/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-patil" height="30" width="40" /></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-patil-ugotthelink/)
+
+---
 
 <!--
 # 👋 Hi, I'm Sahil - Aerospace Engineer & Robotics Enthusiast 
