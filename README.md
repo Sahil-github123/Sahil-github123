@@ -6,9 +6,8 @@
 
 ### 🔭 Currently Soaring Through
 - **Autonomous Humanoid Development** at IIT Bombay Tech Team  
-- **Helicopter Simulator** for CSIR-NAL (Govt. Project)  
-- **Amphibious Drone** for Smart India Hackathon Nationals  
-- **CubeSat Water Propulsion System** research  
+- **Helicopter Simulator** for CSIR-NAL
+- **JetAuto Robot** applications
 
 ---
 
@@ -28,23 +27,18 @@
 ![Fusion360](https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 
+[//]: # (
 **AI/ML & Data**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+)
 
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
 
-### 🏆 Trophy Wall
-```diff
-+ JEE Advanced 97.71%ile (Top 2.3%) 🥇
-+ Inspire SHE Scholar (Top 1% in XII) 🎓
-+ Astronania Astronomy Quiz Rank 2 🔭
-+ 2nd Rank RC Plane Competition ✈️
-+ Smart India Hackathon Finalist 🏆
 
-<!--
+[//]: # (
 # 👋 Hi, I'm Sahil - Aerospace Engineer & Robotics Enthusiast 
 
 **Aerospace Engineering** student @ IIT Bombay | Minor in **Systems & Control Engineering** | Passionate about autonomous systems, drone technology, and robotic control systems
@@ -75,4 +69,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
+)
