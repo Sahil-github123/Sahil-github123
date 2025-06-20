@@ -38,7 +38,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
 
 
-[//]: # (
+<!--
 # 👋 Hi, I'm Sahil - Aerospace Engineer & Robotics Enthusiast 
 
 **Aerospace Engineering** student @ IIT Bombay | Minor in **Systems & Control Engineering** | Passionate about autonomous systems, drone technology, and robotic control systems
@@ -69,4 +69,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-)
+-->
