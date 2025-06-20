@@ -24,15 +24,17 @@
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF7F00?style=for-the-badge&logo=gazebo&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-01A6F0?style=for-the-badge&logo=simulink&logoColor=white)
+![OpenVSP](https://img.shields.io/badge/OpenVSP-0066CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIj48cGF0aCBmaWxsPSIjMDA2NmNjIiBkPSJNMTIwIDBDNTMuNyAwIDAgNTMuNyAwIDEyMHM1My43IDEyMCAxMjAgMTIwIDEyMC01My43IDEyMC0xMjBTMTg2LjMgMCAxMjAgMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIwIDQ1YzQxLjQgMCA3NSA0MC4xIDc1IDc1cy0zMy42IDc1LTc1IDc1LTc1LTMzLjYtNzUtNzUgMzMuNi03NSA3NS03NXoiLz48L3N2Zz4=&logoColor=white)
+![OpenVSP](https://img.shields.io/badge/OpenVSP-0066CC?style=for-the-badge&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
 
-[//]: # (
+<!--
 **AI/ML & Data**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-)
+-->
 
 ---
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
