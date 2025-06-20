@@ -1,8 +1,57 @@
+# 🚀 Hey there! I'm **Sahil Sharma** 
+
+**Aerospace Engineering** @ IIT Bombay | **Systems & Control** Minor | Robotics Innovator 🦾 | Drone Specialist ✈️💧
+
+---
+
+### 🔭 Currently Soaring Through
+- **Autonomous Humanoid Development** at IIT Bombay Tech Team  
+- **Helicopter Simulator** for CSIR-NAL (Govt. Project)  
+- **Amphibious Drone** for Smart India Hackathon Nationals  
+- **CubeSat Water Propulsion System** research  
+
+---
+
+### 🛠️ Tech Arsenal
+
+**Programming & Robotics**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-1C6FEA?style=for-the-badge&logo=px4&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-00979D?style=for-the-badge&logo=ardupilot&logoColor=white)
+
+**Simulation & Design**  
+![Gazebo](https://img.shields.io/badge/Gazebo-FF7F00?style=for-the-badge&logo=gazebo&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-01A6F0?style=for-the-badge&logo=simulink&logoColor=white)
+![Fusion360](https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+
+**AI/ML & Data**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+---
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
+
+### 🏆 Trophy Wall
+```diff
++ JEE Advanced 97.71%ile (Top 2.3%) 🥇
++ Inspire SHE Scholar (Top 1% in XII) 🎓
++ Astronania Astronomy Quiz Rank 2 🔭
++ 2nd Rank RC Plane Competition ✈️
++ Smart India Hackathon Finalist 🏆
+
+<!--
 # 👋 Hi, I'm Sahil - Aerospace Engineer & Robotics Enthusiast 
 
 **Aerospace Engineering** student @ IIT Bombay | Minor in **Systems & Control Engineering** | Passionate about autonomous systems, drone technology, and robotic control systems
 
+<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-github123&show_icons=true&count_private=true&theme=dark&hide_border=true)](https://github.com/Sahil-github123)
+-->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
 
 ## 🔧 Technical Toolkit
@@ -25,4 +74,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
