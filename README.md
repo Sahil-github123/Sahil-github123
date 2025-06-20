@@ -11,7 +11,7 @@
 
 ---
 
-### Passionate about
+### ✨ Passionate about
 - Hybrid VTOLs, eVTOL
 - Single and multi rotor systems
 - UAVs/Drones in general
