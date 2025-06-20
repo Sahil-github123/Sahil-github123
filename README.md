@@ -1,13 +1,23 @@
 # 🚀 Hey there! I'm **Sahil Sharma** 
 
-**Aerospace Engineering** @ IIT Bombay | **Systems & Control** Minor | Robotics Innovator 🦾 | Drone Specialist ✈️💧
+**Aerospace Engineering** @ IIT Bombay | **Systems & Control** Minor | Robotics Innovator 🦾 | Space Enthusiast ✈️
 
 ---
 
 ### 🔭 Currently Soaring Through
 - **Autonomous Humanoid Development** at IIT Bombay Tech Team  
-- **Helicopter Simulator** for CSIR-NAL
+- **Helicopter Analysis and Designing Software** for CSIR-NAL
 - **JetAuto Robot** applications
+
+---
+
+### Passionate about
+- Hybrid VTOLs, eVTOL
+- Single and multi rotor systems
+- UAVs/Drones in general
+- Flight mechanics and Controls
+- Systems Engineering
+- Nuclear and Hydrogen propulsion systems
 
 ---
 
@@ -24,7 +34,6 @@
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF7F00?style=for-the-badge&logo=gazebo&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-01A6F0?style=for-the-badge&logo=simulink&logoColor=white)
-![OpenVSP](https://img.shields.io/badge/OpenVSP-0066CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjQwIj48cGF0aCBmaWxsPSIjMDA2NmNjIiBkPSJNMTIwIDBDNTMuNyAwIDAgNTMuNyAwIDEyMHM1My43IDEyMCAxMjAgMTIwIDEyMC01My43IDEyMC0xMjBTMTg2LjMgMCAxMjAgMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMTIwIDQ1YzQxLjQgMCA3NSA0MC4xIDc1IDc1cy0zMy42IDc1LTc1IDc1LTc1LTMzLjYtNzUtNzUgMzMuNi03NSA3NS03NXoiLz48L3N2Zz4=&logoColor=white)
 ![OpenVSP](https://img.shields.io/badge/OpenVSP-0066CC?style=for-the-badge&logoColor=white)
 ![Fusion360](https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
