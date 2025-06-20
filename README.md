@@ -1,4 +1,4 @@
-# 🚀 Hey there! I'm **Sahil Sharma** 
+# 🚀 Hey there! I'm **Sahil Patil** 
 
 **Aerospace Engineering** @ IIT Bombay | **Systems & Control** Minor | Robotics Innovator 🦾 | Space Enthusiast ✈️
 
