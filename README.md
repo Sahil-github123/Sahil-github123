@@ -1,92 +1,121 @@
-# 🚀 Hey there! I'm **Sahil Patil** 
+# 👋 Hey there! I'm **Sahil Patil**
 
-**Aerospace Engineering** @ IIT Bombay | **Systems & Control** Minor | Robotics Innovator 🦾 | Space Enthusiast ✈️
+**Aerospace Engineering @ IIT Bombay** | **Minors in Systems & Control Engineering and Machine Learning** | Robotics & Autonomous Systems 🦾
 
----
-
-### 🔭 Currently Soaring Through
-- **Quadcopter Controls and Simulations** at IITB ExoFly Team
-- **Helicopter Analysis and Designing Software** for CSIR-NAL
-- **JetAuto Robot** applications
-- **Autonomous Humanoid Robot Development** at IITB THP Team
+I work at the intersection of **aerospace systems, robotics, controls, simulation, and autonomy**. I enjoy building systems that connect mathematical models and algorithms with real-world hardware and data.
 
 ---
 
-### ✨ Passionate about
-- Hybrid VTOLs, eVTOL
-- Single and multi rotor systems
-- UAVs/Drones in general
-- Flight mechanics and Controls
-- Systems Engineering
-- Nuclear and Hydrogen propulsion systems
+## 🔭 Currently Working On
+
+- 🚁 **Autonomous aerial systems** — Controls Subsystem Lead at the IIT Bombay ExoFly Team
+- 🛰️ **LiSLAM & RGB-D localization** — Research work with Prof. Ravi Banavar involving LiSLAM and Intel RealSense D455-based sensing and localization
+- 🚁 **Rotorcraft simulation & GNC** — Simulations Team Lead at ATMOS Flight Technologies Pvt. Ltd.
+- 🛩️ **Aerospace systems & flight dynamics** — Guidance, control, simulation, and autonomous systems
 
 ---
 
-### 🛠️ Tech Arsenal
+## 🛠️ Technical Interests
 
-**Programming & Robotics**  
+**Aerospace & Flight:** Flight Dynamics · Guidance & Control · Rotorcraft · UAVs · Autonomous Systems
+
+**Robotics:** SLAM · Localization · Mapping · State Estimation · Multi-Agent Systems · ROS 2
+
+**Simulation & Systems:** Real-Time Simulation · System Integration · Telemetry · Modeling · Digital Twins
+
+**AI & Data:** Machine Learning · Computer Vision · Data Analysis · Optimization
+
+---
+
+## ⚙️ Tech Arsenal
+
+### 💻 Programming & Robotics
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![PX4](https://img.shields.io/badge/PX4-1C6FEA?style=for-the-badge&logo=px4&logoColor=white)
 ![ArduPilot](https://img.shields.io/badge/ArduPilot-00979D?style=for-the-badge&logo=ardupilot&logoColor=white)
 
-**Simulation & Design**  
+### 🛰️ Simulation & Engineering
+
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF7F00?style=for-the-badge&logo=gazebo&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-01A6F0?style=for-the-badge&logo=simulink&logoColor=white)
-![OpenVSP](https://img.shields.io/badge/OpenVSP-0066CC?style=for-the-badge&logoColor=white)
-![Fusion360](https://img.shields.io/badge/Fusion360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![ANSYS](https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![OpenRocket](https://img.shields.io/badge/OpenRocket-333333?style=for-the-badge)
 
-<!--
-**AI/ML & Data**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### 📊 Scientific Computing & Data
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
--->
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### 🎨 Visualization & Development
+
+![DearPyGui](https://img.shields.io/badge/DearPyGui-333333?style=for-the-badge)
+![PyVista](https://img.shields.io/badge/PyVista-3B77B5?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
+## 🚀 Selected Work
+
+### 🚁 [SimCopter — Real-Time Rotorcraft Simulator](https://github.com/Sahil-github123)
+
+A Python-based real-time rotorcraft flight dynamics simulator and analysis toolchain with interactive visualization and joystick-based control.
+
+---
+
+### 🛰️ LiSLAM & RGB-D Localization
+
+Research work involving LiSLAM and Intel RealSense D455-based sensing and localization, with a focus on real-time depth data, mapping, landmark tracking, and system evaluation.
+
+---
+
+### 🛩️ Hypersonic Glide Vehicle Simulation
+
+Developed a modular 6-DoF hypersonic glide vehicle simulator during research/internship work at DRDL (DRDO), involving flight dynamics, guidance, and control.
+
+---
+
+### 🤖 Autonomous Robotics & Aerial Systems
+
+Experience with PX4, ROS 2, Gazebo, sensor data, system integration, and autonomous robotic platforms.
+
+---
+
+## 🏆 Highlights
+
+- 📝 Published research at the **Asian Rotorcraft Forum 2025**
+- 🦾 Worked on autonomous aerial and humanoid robotic systems
+- 🚁 Simulations Team Lead at **ATMOS Flight Technologies**
+- 🛠️ Experience spanning simulation, controls, robotics, and real-world system integration
+
+---
+
+## 📊 GitHub Activity
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-github123&show_icons=true&count_private=true&theme=dark&hide_border=true)](https://github.com/Sahil-github123)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
 
 ---
 
-### 🌐 Connect with me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-patil-ugotthelink/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil-github123)
+
+📧 **Email:** `23b0005@iitb.ac.in`
 
 ---
 
-<!--
-# 👋 Hi, I'm Sahil - Aerospace Engineer & Robotics Enthusiast 
-
-**Aerospace Engineering** student @ IIT Bombay | Minor in **Systems & Control Engineering** | Passionate about autonomous systems, drone technology, and robotic control systems
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-github123&show_icons=true&count_private=true&theme=dark&hide_border=true)](https://github.com/Sahil-github123)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
-
-## 🔧 Technical Toolkit
-```diff
-+ Robotics: ROS/ROS2 | Gazebo | PX4 | ArduPilot | SLAM | PID Control
-+ Languages: Python | C++ | MATLAB | Bash 
-+ Simulation: ANSYS | Fusion 360 | Simulink | OpenRocket
-+ AI/ML: TensorFlow | scikit-learn | Computer Vision
-
-
-**Sahil-github123/Sahil-github123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+> *Building intelligent systems where aerospace, robotics, and computation meet.*
