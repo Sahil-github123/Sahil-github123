@@ -74,19 +74,13 @@ I am particularly interested in:
 
 A Python-based rotorcraft simulator and analysis toolchain with interactive visualization, joystick integration, and real-time flight-state monitoring.
 
----
-
 ### 🛰️ LiSLAM and RGB-D Localization
 
 Research work involving LiSLAM and Intel RealSense D455-based sensing and localization, with real-time depth data, mapping, landmark tracking, and system evaluation.
 
----
-
 ### 🛩️ Hypersonic Glide Vehicle Simulation
 
 A modular 6-DoF hypersonic glide vehicle simulator developed during research and internship work at DRDL, involving flight dynamics, guidance, and control.
-
----
 
 ### 🤖 Autonomous Robotics and Aerial Systems
 
@@ -96,9 +90,8 @@ Working with PX4, ROS 2, Gazebo, sensor data, system integration, and autonomous
 
 ## 🏆 Highlights
 
-* 📝 Published research at the **Asian Rotorcraft Forum 2025**
+* 📝 Published research paper at the **Asian Rotorcraft Forum 2025**
 * 🦾 Worked on autonomous aerial and humanoid robotic systems
-* 🚁 **GNC Engineer and Simulations Team Lead** at **ATMOS Flight Technologies**
 * 🛠️ Built systems across simulation, controls, robotics, and real-world hardware
 
 ---
