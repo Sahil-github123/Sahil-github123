@@ -2,119 +2,134 @@
 
 **Aerospace Engineering @ IIT Bombay** | **Minors in Systems & Control Engineering and Machine Learning** | Robotics & Autonomous Systems 🦾
 
-I work at the intersection of **aerospace systems, robotics, controls, simulation, and autonomy**. I enjoy building systems that connect mathematical models and algorithms with real-world hardware and data.
+I like building things that move, fly, think, or occasionally do all three.
+
+My work sits somewhere between **aerospace, robotics, controls, simulation, and autonomy**. I enjoy taking an idea, turning it into a model or algorithm, connecting it to real-world data or hardware, and then spending an unreasonable amount of time figuring out why it is not working.
+
+---
+
+## ⚡ A Few Things About Me
+
+- 🕷️ Super, super fan of Spider-Man. Iron Man is a close second.
+- 🤖 I like building things almost as much as I like watching fictional geniuses build impossible things.
+- 🧠 I enjoy anime with overpowered characters, intense rivalries, clever power systems, and absurd comedy.
+- 🚀 If something can be simulated, optimized, automated, or turned into a robot, I will probably be interested.
+- 🎬 My interests range from aerospace and robotics to anime, superheroes, and time-travel movies.
+
+I am probably somewhere between Spider-Man and Iron Man: I like solving problems creatively, building things from scratch, and occasionally wondering why I decided to make the problem more complicated than it needed to be.
+
+When I am not working on aerospace, robotics, controls, or simulations, I am probably watching anime, superhero movies, sitcoms, or something involving an overpowered protagonist, an impossible challenge, or a questionable amount of explosions.
 
 ---
 
 ## 🔭 Currently Working On
 
-- 🚁 **Autonomous aerial systems** — Controls Subsystem Lead at the IIT Bombay ExoFly Team
-- 🛰️ **LiSLAM & RGB-D localization** — Research work with Prof. Ravi Banavar involving LiSLAM and Intel RealSense D455-based sensing and localization
-- 🚁 **Rotorcraft simulation & GNC** — GNC Engineer & Simulations Team Lead at ATMOS Flight Technologies Pvt. Ltd.
-- 🛩️ **Aerospace systems & flight dynamics** — Guidance, control, simulation, and autonomous systems
+- 🚁 **Autonomous aerial systems** with the IIT Bombay ExoFly Team
+- 🛰️ **LiSLAM and RGB-D localization** with Prof. Ravi Banavar, working with LiSLAM and Intel RealSense D455-based sensing and localization
+- 🚁 **Rotorcraft simulation and GNC** as GNC Engineer and Simulations Team Lead at ATMOS Flight Technologies
+- 🛩️ **Aerospace systems and flight dynamics**, including guidance, control, simulation, and autonomous systems
 
 ---
 
-## 🛠️ Technical Interests
+## 🧩 What I Build
 
-**Aerospace & Flight:** Flight Dynamics · Guidance & Control · Rotorcraft · UAVs · Autonomous Systems
+```text
+Sensors ──► Estimation ──► Planning ──► Control ──► Simulation ──► Visualization
+   │             │             │             │             │             │
+   └─────────────┴─────────────┴─────────────┴─────────────┴─────────────┘
+                         Something Probably Broke
+````
 
-**Robotics:** SLAM · Localization · Mapping · State Estimation · Multi-Agent Systems · ROS 2
+I am particularly interested in:
 
-**Simulation & Systems:** Real-Time Simulation · System Integration · Telemetry · Modeling · Digital Twins
-
-**AI & Data:** Machine Learning · Computer Vision · Data Analysis · Optimization
+🛩️ Aerospace systems and flight dynamics
+🤖 Robotics and autonomous systems
+🎯 Guidance, navigation, and control
+🛰️ SLAM, localization, and state estimation
+🧮 Real-time simulation
+📡 Telemetry and visualization
+🧠 Machine learning and intelligent systems
 
 ---
 
 ## ⚙️ Tech Arsenal
 
-### 💻 Programming & Robotics
+**Languages:** Python · C++ · MATLAB · Bash
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![PX4](https://img.shields.io/badge/PX4-1C6FEA?style=for-the-badge&logo=px4&logoColor=white)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-00979D?style=for-the-badge&logo=ardupilot&logoColor=white)
+**Robotics & Autonomy:** ROS 2 · Gazebo · RViz · PX4 · ArduPilot · Mission Planner
 
-### 🛰️ Simulation & Engineering
+**Scientific Computing:** NumPy · Pandas · SciPy · scikit-learn · TensorFlow
 
-![Gazebo](https://img.shields.io/badge/Gazebo-FF7F00?style=for-the-badge&logo=gazebo&logoColor=white)
-![Simulink](https://img.shields.io/badge/Simulink-01A6F0?style=for-the-badge&logo=simulink&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![OpenRocket](https://img.shields.io/badge/OpenRocket-333333?style=for-the-badge)
+**Simulation:** MATLAB/Simulink · Simscape · AeroSandbox · OpenRocket · Fusion 360
 
-### 📊 Scientific Computing & Data
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### 🎨 Visualization & Development
-
-![DearPyGui](https://img.shields.io/badge/DearPyGui-333333?style=for-the-badge)
-![PyVista](https://img.shields.io/badge/PyVista-3B77B5?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Visualization & Tools:** DearPyGui · PyVista · Matplotlib · Git · GitHub
 
 ---
 
 ## 🚀 Selected Work
 
-### 🚁 SimCopter — Real-Time Rotorcraft Simulator
+### 🚁 SimCopter
 
-A Python-based real-time rotorcraft flight dynamics simulator and analysis toolchain with interactive visualization and joystick-based control.
+**Real-Time Rotorcraft Flight Dynamics Simulator**
+
+A Python-based rotorcraft simulator and analysis toolchain with interactive visualization, joystick integration, and real-time flight-state monitoring.
 
 ---
 
-### 🛰️ LiSLAM & RGB-D Localization
+### 🛰️ LiSLAM and RGB-D Localization
 
-Research work involving LiSLAM and Intel RealSense D455-based sensing and localization, with a focus on real-time depth data, mapping, landmark tracking, and system evaluation.
+Research work involving LiSLAM and Intel RealSense D455-based sensing and localization, with real-time depth data, mapping, landmark tracking, and system evaluation.
 
 ---
 
 ### 🛩️ Hypersonic Glide Vehicle Simulation
 
-Developed a modular 6-DoF hypersonic glide vehicle simulator during research/internship work at DRDL (DRDO), involving flight dynamics, guidance, and control.
+A modular 6-DoF hypersonic glide vehicle simulator developed during research and internship work at DRDL, involving flight dynamics, guidance, and control.
 
 ---
 
-### 🤖 Autonomous Robotics & Aerial Systems
+### 🤖 Autonomous Robotics and Aerial Systems
 
-Experience with PX4, ROS 2, Gazebo, sensor data, system integration, and autonomous robotic platforms.
+Working with PX4, ROS 2, Gazebo, sensor data, system integration, and autonomous robotic platforms.
 
 ---
 
 ## 🏆 Highlights
 
-- 📝 Published research at the **Asian Rotorcraft Forum 2025**
-- 🦾 Worked on autonomous aerial and humanoid robotic systems
-- 🚁 **GNC Engineer & Simulations Team Lead** at **ATMOS Flight Technologies**
-- 🛠️ Experience spanning simulation, controls, robotics, and real-world system integration
+* 📝 Published research at the **Asian Rotorcraft Forum 2025**
+* 🦾 Worked on autonomous aerial and humanoid robotic systems
+* 🚁 **GNC Engineer and Simulations Team Lead** at **ATMOS Flight Technologies**
+* 🛠️ Built systems across simulation, controls, robotics, and real-world hardware
 
 ---
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/Sahil-github123)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sahil-github123&color=blue&style=flat-square&label=Profile+Views)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-github123&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-patil-ugotthelink/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sahil-github123)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sahil-patil-ugotthelink/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Sahil-github123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 📧 **Email:** `23b0005@iitb.ac.in`
 
 ---
 
 > *Building intelligent systems where aerospace, robotics, and computation meet.*
+
+```
+
+I think this is a better balance. The **fun facts now give visitors an immediate sense of who you are**, while the tech arsenal takes up much less space and is still easy to scan.
+```
