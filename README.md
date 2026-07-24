@@ -103,7 +103,7 @@ Working with PX4, ROS 2, Gazebo, sensor data, system integration, and autonomous
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180"/>
 </p>
 -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
+[![Top Languages](https://github-readme-stats-nine-azure-74.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true)](https://github.com/Sahil-github123)
 
 ---
 
