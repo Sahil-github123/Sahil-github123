@@ -54,16 +54,16 @@ I am particularly interested in:
 
 ## ⚙️ Tech Arsenal
 
+**Core Engineering:** Python · C++ · MATLAB · Bash · NumPy · SciPy · scikit-learn · TensorFlow · MATLAB/Simulink · Simscape
+
+**Robotics & Tools:** ROS 2 · Gazebo · RViz · PX4 · ArduPilot · Mission Planner · AeroSandbox · OpenRocket · Fusion 360 · DearPyGui · PyVista · Matplotlib · Git
+<!--
 **Languages:** Python · C++ · MATLAB · Bash
-
 **Robotics & Autonomy:** ROS 2 · Gazebo · RViz · PX4 · ArduPilot · Mission Planner
-
 **Scientific Computing:** NumPy · Pandas · SciPy · scikit-learn · TensorFlow
-
 **Simulation:** MATLAB/Simulink · Simscape · AeroSandbox · OpenRocket · Fusion 360
-
 **Visualization & Tools:** DearPyGui · PyVista · Matplotlib · Git · GitHub
-
+-->
 ---
 
 ## 🚀 Selected Work
@@ -104,11 +104,13 @@ Working with PX4, ROS 2, Gazebo, sensor data, system integration, and autonomous
 ---
 
 ## 📊 GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sahil-github123&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180"/>
 </p>
+-->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
 
 ---
 
@@ -128,8 +130,3 @@ Working with PX4, ROS 2, Gazebo, sensor data, system integration, and autonomous
 ---
 
 > *Building intelligent systems where aerospace, robotics, and computation meet.*
-
-```
-
-I think this is a better balance. The **fun facts now give visitors an immediate sense of who you are**, while the tech arsenal takes up much less space and is still easy to scan.
-```
