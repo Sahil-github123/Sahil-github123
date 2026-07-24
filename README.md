@@ -10,7 +10,7 @@ I work at the intersection of **aerospace systems, robotics, controls, simulatio
 
 - 🚁 **Autonomous aerial systems** — Controls Subsystem Lead at the IIT Bombay ExoFly Team
 - 🛰️ **LiSLAM & RGB-D localization** — Research work with Prof. Ravi Banavar involving LiSLAM and Intel RealSense D455-based sensing and localization
-- 🚁 **Rotorcraft simulation & GNC** — Simulations Team Lead at ATMOS Flight Technologies Pvt. Ltd.
+- 🚁 **Rotorcraft simulation & GNC** — GNC Engineer & Simulations Team Lead at ATMOS Flight Technologies Pvt. Ltd.
 - 🛩️ **Aerospace systems & flight dynamics** — Guidance, control, simulation, and autonomous systems
 
 ---
@@ -42,7 +42,6 @@ I work at the intersection of **aerospace systems, robotics, controls, simulatio
 ### 🛰️ Simulation & Engineering
 
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF7F00?style=for-the-badge&logo=gazebo&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-01A6F0?style=for-the-badge&logo=simulink&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![OpenRocket](https://img.shields.io/badge/OpenRocket-333333?style=for-the-badge)
@@ -67,7 +66,7 @@ I work at the intersection of **aerospace systems, robotics, controls, simulatio
 
 ## 🚀 Selected Work
 
-### 🚁 [SimCopter — Real-Time Rotorcraft Simulator](https://github.com/Sahil-github123)
+### 🚁 SimCopter — Real-Time Rotorcraft Simulator
 
 A Python-based real-time rotorcraft flight dynamics simulator and analysis toolchain with interactive visualization and joystick-based control.
 
@@ -95,16 +94,16 @@ Experience with PX4, ROS 2, Gazebo, sensor data, system integration, and autonom
 
 - 📝 Published research at the **Asian Rotorcraft Forum 2025**
 - 🦾 Worked on autonomous aerial and humanoid robotic systems
-- 🚁 Simulations Team Lead at **ATMOS Flight Technologies**
+- 🚁 **GNC Engineer & Simulations Team Lead** at **ATMOS Flight Technologies**
 - 🛠️ Experience spanning simulation, controls, robotics, and real-world system integration
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Activity
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil-github123&show_icons=true&count_private=true&theme=dark&hide_border=true)](https://github.com/Sahil-github123)
+![GitHub Contribution Graph](https://ghchart.rshah.org/409ba5/Sahil-github123)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-github123&layout=compact&theme=dark&hide_border=true&hide=html,css,scss,jupyter%20notebook)](https://github.com/Sahil-github123)
+![Profile Views](https://komarev.com/ghpvc/?username=Sahil-github123&color=blue&style=flat-square&label=Profile+Views)
 
 ---
 
